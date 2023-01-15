@@ -12,7 +12,7 @@ Currently example notebooks includes next themes, that could be navigated by cho
 
 1) [Data download](https://github.com/po1line/Hands-on-spatial-data-analysis/tree/data-download) <br>
 2) [Basics of rasters math and calculation of spectral indices](https://github.com/po1line/Hands-on-spatial-data-analysis/tree/data-vis)  <br>
-3) *Processing of the raster data according to vector data* under construction  <br>
+3) *Processing of the raster data according to vector data (currently in work 🏗🚧) *  <br>
 * *acquisition of the spectral information in certain locations represented by points;*  <br>
 * *calculation of basic statistics within polygons.* <br>
 
